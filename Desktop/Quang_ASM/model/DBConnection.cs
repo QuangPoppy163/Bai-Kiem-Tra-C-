@@ -10,7 +10,7 @@ namespace ConsoleApp3.model
         {
         }
 
-        private const string DatabaseName = "account";
+        private const string DatabaseName = "spring_hero_bank";
         private const string ServerName = "localhost";
         private const string ServerPort = "3306";
         private const string Uid = "root";
